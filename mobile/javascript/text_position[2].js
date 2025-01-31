@@ -1,0 +1,1 @@
+﻿positionForPages[2]={page:2,positions:[{word:"OASTAL",left:0.116032,top:0.028452,width:0.382810,height:0.099762},{word:"IVING",left:0.099841,top:0.107817,width:0.261595,height:0.099762},{word:"REDEFINED",left:0.046429,top:0.187182,width:0.529159,height:0.099762}]};

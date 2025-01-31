@@ -1,0 +1,1 @@
+﻿positionForPages[33]={page:33,positions:[{word:"rtist’s ",left:0.903599,top:0.971123,width:0.025905,height:0.008729},{word:"oncept.",left:0.934157,top:0.971123,width:0.030128,height:0.008729}]};

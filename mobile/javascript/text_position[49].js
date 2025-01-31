@@ -1,0 +1,1 @@
+﻿positionForPages[49]={page:49,positions:[{word:"ist’s co",left:0.692236,top:0.472158,width:0.028305,height:0.008729},{word:"A",left:0.725185,top:0.472158,width:0.178414,height:0.507694},{word:"st’s con",left:0.912897,top:0.971123,width:0.031038,height:0.008729},{word:"A",left:0.725185,top:0.472158,width:0.178414,height:0.507694}]};

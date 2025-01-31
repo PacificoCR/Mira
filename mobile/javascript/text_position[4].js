@@ -1,0 +1,1 @@
+﻿positionForPages[4]={page:4,positions:[{word:"HE",left:0.109553,top:0.028250,width:0.121014,height:0.101009},{word:"ROWN ",left:0.116850,top:0.107643,width:0.325973,height:0.101009},{word:"EWEL",left:0.499313,top:0.107643,width:0.263612,height:0.101009},{word:"F ",left:0.119148,top:0.187036,width:0.095300,height:0.101009}]};
